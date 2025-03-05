@@ -26,11 +26,11 @@ experiences:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    solution focus:
+      responsibilities:
     - Led a highly skilled architecture team, executing the Enterprise Architecture portfolio and developing strategies,
     roadmaps, and solutions.
     - Collaborated with stakeholders, providing mentorship and advocating for technology improvements aligned with
-    responsibilities:
+  
     - Analysed current architecture for improvement, identified gaps, and developed transition plans.
     - Served on the Technology Steering Committee, assessing industry trends and championing technology
     advancements. Acting as an advocate and steward for Technology.
@@ -44,28 +44,28 @@ experiences:
   - designation: Head of Business Intelligence
     start: Oct 2014
     end: Sep 2016
-    solution focus:
+     responsibilities:
     - Key member of the technology management team, optimizing data usage to drive business strategy and operational
     success.
     - Led and mentored a highly skilled BI team to ensure data-driven strategies and operational effectiveness.
     - Established and maintained architecture for BI platforms, supporting organizational goals and products.
-    responsibilities:
+   
     - Provided strategic insights into key metrics, driving decision-making with data-driven insights and identifying
     opportunities for improvement.
     - Managed daily BI operations, including statistical analysis, report development, staff training, and system
     maintenance.
-    - Enhanced the company’s reporting systems and data warehousing strategies, ensuring timely delivery of highquality
+    - Enhanced the companys reporting systems and data warehousing strategies, ensuring timely delivery of highquality
     reports.
     - Researched and implemented new systems to improve BI capabilities.
 
   - designation: BI Team Lead
     start: Apr 2014
     end: Sep 2014
-    solution focus:
+    responsibilities:
     - Led, managed and mentored the BI team, overseeing the execution of the Business Intelligence portfolio and
     responsible for team productivity.
     - Developed and implemented architecture for BI platforms, supporting organizational needs.
-    responsibilities:
+ 
     - Identified opportunities for efficiency improvements and business optimization.
     - Delivered data analysis from multiple sources to enable proactive business decision-making.
     - Provided end-user training, enhancing BI expertise across the company.
@@ -74,10 +74,10 @@ experiences:
   - designation: Senior ETL Technical Specialist
     start: Jan 2010
     end: Mar 2014
-    solution focus:
+    responsibilities:
     - Technical lead on new initiatives, data analysis, analysing business requests and creation of solutions.
     - Led new initiatives, data analysis, and business solution creation, with expertise in Microsoft SSAS, SSIS, SSRS, and MDX.
-    responsibilities:
+    
     - Redesigned a data warehouse using Kimball standards and SQL Change Data Capture (CDC) for efficient data analysis and reporting.
     - Maintained ETL processes through SSIS, setting technical team goals and leading new initiatives.
     - Continuously explored innovative methods for data integration and analysis aligned with the company’s business model.
@@ -95,8 +95,6 @@ experiences:
   - designation: Senior Consultant/Developer
     start: Jan 2001
     end: Dec 2009
-    solution focus:
-    - Senior Software Developer
     responsibilities:
     - Developed Software solutions and consulted with numerous BCX customers namely SAPREF, RBCT, Mass Discounters, Toyota, Rainbow chickens to name a few.
     - Expertise in Microsoft stack development, business intelligence, reporting, and integration with BizTalk, SharePoint, and Exchange workflow.
