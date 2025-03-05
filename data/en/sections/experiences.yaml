@@ -26,7 +26,7 @@ experiences:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-      responsibilities:
+    responsibilities:
     - Led a highly skilled architecture team, executing the Enterprise Architecture portfolio and developing strategies,
     roadmaps, and solutions.
     - Collaborated with stakeholders, providing mentorship and advocating for technology improvements aligned with
@@ -44,7 +44,7 @@ experiences:
   - designation: Head of Business Intelligence
     start: Oct 2014
     end: Sep 2016
-     responsibilities:
+    responsibilities:
     - Key member of the technology management team, optimizing data usage to drive business strategy and operational
     success.
     - Led and mentored a highly skilled BI team to ensure data-driven strategies and operational effectiveness.
