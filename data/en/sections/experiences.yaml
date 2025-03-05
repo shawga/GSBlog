@@ -20,54 +20,86 @@ experiences:
     # company overview
     overview: DigiOutsource is an iGaming technology company, part of the Super Group holding company (SGHC) for leading online sports brand, Betway and premier betting brand, Spin.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Enterprise Architect
+    start: Sept 2016
+    end: Aug 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
+    solution focus:
+    - Led a highly skilled architecture team, executing the Enterprise Architecture portfolio and developing strategies,
+    roadmaps, and solutions.
+    - Collaborated with stakeholders, providing mentorship and advocating for technology improvements aligned with
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Analysed current architecture for improvement, identified gaps, and developed transition plans.
+    - Served on the Technology Steering Committee, assessing industry trends and championing technology
+    advancements. Acting as an advocate and steward for Technology.
+    - Managed Working Groups and COEs for cloud adoption, AI, data platforms, MLops adoption and more.
+    - Streamlined cross-team collaboration, reducing duplicative efforts.
+    - Implemented an Automated Architecture landscape integrated with a with a Software catalogue.
+    - Led Data Governance initiatives and created a Data Management Maturity Framework. ([DMBOK2](https://www.dama.com), [DCAM](https://www.edmc.com), [CDMC](https://www.edmc.com))
+    - Provided enterprise architecture guidance and thought leadership across multiple domains.
+    - Established the Data Science portfolio within Data Architecture.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Head of Business Intelligence
+    start: Oct 2014
+    end: Sep 2016
+    solution focus:
+    - Key member of the technology management team, optimizing data usage to drive business strategy and operational
+    success.
+    - Led and mentored a highly skilled BI team to ensure data-driven strategies and operational effectiveness.
+    - Established and maintained architecture for BI platforms, supporting organizational goals and products.
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Provided strategic insights into key metrics, driving decision-making with data-driven insights and identifying
+    opportunities for improvement.
+    - Managed daily BI operations, including statistical analysis, report development, staff training, and system
+    maintenance.
+    - Enhanced the company’s reporting systems and data warehousing strategies, ensuring timely delivery of highquality
+    reports.
+    - Researched and implemented new systems to improve BI capabilities.
+
+  - designation: BI Team Lead
+    start: Apr 2014
+    end: Sep 2014
+    solution focus:
+    - Led, managed and mentored the BI team, overseeing the execution of the Business Intelligence portfolio and
+    responsible for team productivity.
+    - Developed and implemented architecture for BI platforms, supporting organizational needs.
+    responsibilities:
+    - Identified opportunities for efficiency improvements and business optimization.
+    - Delivered data analysis from multiple sources to enable proactive business decision-making.
+    - Provided end-user training, enhancing BI expertise across the company.
+    - Improved team knowledge of BI concepts, creating individual training plans and managing performance metrics.
+
+  - designation: Senior ETL Technical Specialist
+    start: Jan 2010
+    end: Mar 2014
+    solution focus:
+    - Technical lead on new initiatives, data analysis, analysing business requests and creation of solutions.
+    - Led new initiatives, data analysis, and business solution creation, with expertise in Microsoft SSAS, SSIS, SSRS, and MDX.
+    responsibilities:
+    - Redesigned a data warehouse using Kimball standards and SQL Change Data Capture (CDC) for efficient data analysis and reporting.
+    - Maintained ETL processes through SSIS, setting technical team goals and leading new initiatives.
+    - Continuously explored innovative methods for data integration and analysis aligned with the company’s business model.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Business Connexion (BCX)
+    url: "https://www.bcx.com"
+    location: Durban
+    logo: /images/sections/experiences/bcx.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    overview: BCX is a South African-based information and communications technology (ICT) company. It is a subsidiary within Telkom Group and is one of Africa’s largest systems integrators and digital transformation partners for enterprises and public sector organizations.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Senior Consultant/Developer
+    start: Jan 2001
+    end: Dec 2009
+    solution focus:
+    - Senior Software Developer
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Developed Software solutions and consulted with numerous BCX customers namely SAPREF, RBCT, Mass Discounters, Toyota, Rainbow chickens to name a few.
+    - Expertise in Microsoft stack development, business intelligence, reporting, and integration with BizTalk, SharePoint, and Exchange workflow.
+    - Consulting in a customer-facing environment to understand clients' business needs, formulate recommendations including presales pitch and the delivery of technical solutions for client needs.
+
+
