@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Gareth's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,13 +23,13 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Gareth Shaw's Blog"
+    title: "Gareth Shaw"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+  # bn:
+  #   languageCode: bn
+  #   languageName: বাংলা
+  #   title: জনের ব্লগ
+  #   weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -58,7 +58,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background2.jpg
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
@@ -105,7 +105,7 @@ params:
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        # twitter: true
         linkedin: true
         reddit: true
         whatsapp: true
@@ -306,4 +306,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
