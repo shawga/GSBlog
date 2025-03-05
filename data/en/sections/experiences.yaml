@@ -27,13 +27,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Led a highly skilled architecture team, executing the Enterprise Architecture portfolio and developing strategies,
-    roadmaps, and solutions.
-    - Collaborated with stakeholders, providing mentorship and advocating for technology improvements aligned with
-  
+    - Led a highly skilled architecture team, executing the Enterprise Architecture portfolio and developing strategies, roadmaps, and solutions.
+    - Collaborated with stakeholders, providing mentorship and advocating for technology improvements aligned with business goals.
     - Analysed current architecture for improvement, identified gaps, and developed transition plans.
-    - Served on the Technology Steering Committee, assessing industry trends and championing technology
-    advancements. Acting as an advocate and steward for Technology.
+    - Served on the Technology Steering Committee, assessing industry trends and championing technology advancements. Acting as an advocate and steward for Technology.
     - Managed Working Groups and COEs for cloud adoption, AI, data platforms, MLops adoption and more.
     - Streamlined cross-team collaboration, reducing duplicative efforts.
     - Implemented an Automated Architecture landscape integrated with a with a Software catalogue.
@@ -45,27 +42,20 @@ experiences:
     start: Oct 2014
     end: Sep 2016
     responsibilities:
-    - Key member of the technology management team, optimizing data usage to drive business strategy and operational
-    success.
+    - Key member of the technology management team, optimizing data usage to drive business strategy and operational success.
     - Led and mentored a highly skilled BI team to ensure data-driven strategies and operational effectiveness.
     - Established and maintained architecture for BI platforms, supporting organizational goals and products.
-   
-    - Provided strategic insights into key metrics, driving decision-making with data-driven insights and identifying
-    opportunities for improvement.
-    - Managed daily BI operations, including statistical analysis, report development, staff training, and system
-    maintenance.
-    - Enhanced the companys reporting systems and data warehousing strategies, ensuring timely delivery of highquality
-    reports.
+    - Provided strategic insights into key metrics, driving decision-making with data-driven insights and identifying opportunities for improvement.
+    - Managed daily BI operations, including statistical analysis, report development, staff training, and system maintenance.
+    - Enhanced the companys reporting systems and data warehousing strategies, ensuring timely delivery of highquality reports.
     - Researched and implemented new systems to improve BI capabilities.
 
   - designation: BI Team Lead
     start: Apr 2014
     end: Sep 2014
     responsibilities:
-    - Led, managed and mentored the BI team, overseeing the execution of the Business Intelligence portfolio and
-    responsible for team productivity.
+    - Led, managed and mentored the BI team, overseeing the execution of the Business Intelligence portfolio and responsible for team productivity.
     - Developed and implemented architecture for BI platforms, supporting organizational needs.
- 
     - Identified opportunities for efficiency improvements and business optimization.
     - Delivered data analysis from multiple sources to enable proactive business decision-making.
     - Provided end-user training, enhancing BI expertise across the company.
@@ -77,7 +67,6 @@ experiences:
     responsibilities:
     - Technical lead on new initiatives, data analysis, analysing business requests and creation of solutions.
     - Led new initiatives, data analysis, and business solution creation, with expertise in Microsoft SSAS, SSIS, SSRS, and MDX.
-    
     - Redesigned a data warehouse using Kimball standards and SQL Change Data Capture (CDC) for efficient data analysis and reporting.
     - Maintained ETL processes through SSIS, setting technical team goals and leading new initiatives.
     - Continuously explored innovative methods for data integration and analysis aligned with the company’s business model.
