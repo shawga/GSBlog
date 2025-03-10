@@ -75,7 +75,7 @@ experiences:
     name: Business Connexion (BCX)
     url: "https://www.bcx.com"
     location: Durban
-    logo: /images/sections/experiences/bcx.jpg
+    logo: /images/sections/experiences/bcx.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: BCX is a South African-based information and communications technology (ICT) company. It is a subsidiary within Telkom Group and is one of Africa’s largest systems integrators and digital transformation partners for enterprises and public sector organizations.
