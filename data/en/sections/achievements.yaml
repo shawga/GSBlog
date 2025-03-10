@@ -10,15 +10,15 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
+# - title: Best Presenter
+#   image: /images/sections/achievements/presenter.jpg
+#   summary: Best presenter in the 2020 XYZ conference.
+- title: Ultra Running,  Cycling and Triathlons
   image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+  summary: Completed back-to-back Comrades Marathons, 6 Ultra 2oceans marathons, 10 standard marathons, 5 Cape Cycle tours and a 70.3 Iron man triathlon.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  summary: Received Bachelor of Commerce (BCom) in Information Systems from University of Kwa-zulu Natal.
+# - title: Award Winner
+#   image: /images/sections/achievements/woman-winner.jpg
+#   summary: Wined best paper award at IEE Conference 2020.
