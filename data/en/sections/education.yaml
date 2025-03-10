@@ -16,7 +16,7 @@ degrees:
   institution:
     name: University of KwaZulu-Natal
     url: "#"
-    logo: /images/sections/education/ukzn-logo.jpg
+    logo: /images/sections/education/ukzn-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
@@ -68,7 +68,7 @@ degrees:
   institution:
     name: Michaelhouse
     url: "#"
-    logo: /images/sections/education/michaelhouse-logo.jpg
+    logo: /images/sections/education/mh-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)
