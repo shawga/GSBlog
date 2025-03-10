@@ -18,7 +18,7 @@ degrees:
     url: "#"
     logo: /images/sections/education/ukzn-logo.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
+    darkLogo: /images/sections/education/ukzn-logo.jpg
   grade: #(optional)
     # scale: CGPA
     # achieved: 3.6
@@ -70,7 +70,7 @@ degrees:
     url: "#"
     logo: /images/sections/education/mh-logo.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/science_college.png
+    darkLogo: /images/sections/education/michaelhouse-logo.jpg
   grade: #(optional)
     # scale: GPA
     # achieved: 5
