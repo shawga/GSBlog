@@ -73,7 +73,7 @@ skills:
   categories: ["others"]
 
 - name: Neo4j
-  logo: /images/sections/skills/Neo4j.png
+  logo: /images/sections/skills/neo4j.png
   summary: "Graph db modelling and design with ability to query with cypher."
   categories: ["others"]
 
@@ -96,7 +96,7 @@ skills:
   url: "https://prometheus.io/"
 
 - name: Power BI
-  logo: /images/sections/skills/power-bi.png
+  logo: /images/sections/skills/powerbi.png
   summary: "Capable of writing reports in Power BI."
   categories: ["others"]
 
