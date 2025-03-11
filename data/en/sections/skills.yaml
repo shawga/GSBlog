@@ -27,52 +27,87 @@ buttons:
 skills:
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: ""
+  summary: "SQL (TSQL, oracle PSQL, DSO), Database design & modelling and Data product design (including Datawarehouse, Bigdata solutions ie Datalake, Datamesh)"
   categories: ["basic", "language"]
-  url: "https://www.sql.com/"
+  url: "https://www.microsoft.com/en-us/sql-server"
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Main language for development, analytics and data pipelines."
   categories: ["basic", "language"]
   url: "https://python.org/"
 
 - name: C#
   logo: /images/sections/skills/csharp.png
-  summary: "Know basic C# programming. Used for rnd programming and problem solving."
+  summary: "Experience with C# programming. Used for de reviews, RnD Coprogramming and problem solving."
   categories: ["basic", "language"]
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with major clouds such as Azure and AWS and led Cloud adoption programs."
+  categories: ["others"]
+
+- name: Data Governance
+  logo: /images/sections/skills/dcam.png
+  summary: "Ensured data quality, lineage, and security through metadata management, cataloguing, and compliance frameworks (DMBOK2, DCAM, CDMC)."
+  categories: ["others"]
+
+- name: Kafka
+  logo: /images/sections/skills/kafka.png
+  summary: "Experience with realtime event based systems using Apache and Confluent Kafka."
+  categories: ["others"]
+
+- name: Gen AI
+  logo: /images/sections/skills/ai2.png
+  summary: "Experience with Gen AI adoption and RAG implimentations."
+  categories: ["others"]
+
+- name: Togaf
+  logo: /images/sections/skills/togaf_tc.png
+  summary: "Experienced with TOGAF framework and alternate EA frameworks like Zachman."
+  categories: ["others"]
+
+- name: ArchiMate
+  logo: /images/sections/skills/archi.png
+  summary: "ArchiMate architecture BDAT modelling in Archi and Sparx EA."
+  categories: ["others"]
+
+- name: Neo4j
+  logo: /images/sections/skills/Neo4j.png
+  summary: "Graph db modelling and design with ability to query with cypher."
   categories: ["others"]
 
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of deploying, managing application on Kubernetes."
   categories: ["container"]
   url: "https://kubernetes.io/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Write most of the programs as dockerized container."
   categories: ["container"]
   url: "https://www.docker.com/"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Capable of setup and configuration of Prometheus metrics. "
   categories: ["basic"]
   url: "https://prometheus.io/"
 
+- name: Power BI
+  logo: /images/sections/skills/power-bi.png
+  summary: "Capable of writing reports in Power BI."
+  categories: ["others"]
+
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Capable of writing basic bash/shell scripts."
   categories: ["others"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. For source control and CICD practise have used Github, GitLab and Azure devops."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
