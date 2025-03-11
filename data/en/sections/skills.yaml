@@ -38,7 +38,7 @@ skills:
   url: "https://python.org/"
 
 - name: C#
-  logo: /images/sections/skills/c#.png
+  logo: /images/sections/skills/csharp.png
   summary: "Know basic C# programming. Used for rnd programming and problem solving."
   categories: ["basic", "language"]
 
