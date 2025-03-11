@@ -15,15 +15,15 @@ degrees:
   timeframe: 1998-2000
   institution:
     name: University of KwaZulu-Natal
-    url: "#"
+    url: "https://ukzn.ac.za/"
     logo: /images/sections/education/ukzn-logo.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/ukzn-logo.jpg
-  grade: #(optional)
+  #grade: #(optional)
     # scale: CGPA
     # achieved: 3.6
     # outOf: 4
-  takenCourses: #(optional)
+  #takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     # showGrades: true
     # collapseAfter: 3
@@ -40,14 +40,14 @@ degrees:
     # - name: Artificial Intelligent
     #   achieved: 3.75
     #   outOf: 4
-  publications: #(optional)
+  #publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
   # - title: Fusce eu augue ut odio porttitor pulvinar.
   #   url: "#"
   # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
   #   url: "#"
-  extracurricularActivities: #(optional)
+  #extracurricularActivities: #(optional)
   # - In vitae facilisis est, eget porta sem.
   # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
@@ -63,15 +63,15 @@ degrees:
   timeframe: 2010-2012
   institution:
     name: Michaelhouse
-    url: "#"
+    url: "https://www.michaelhouse.org/"
     logo: /images/sections/education/mh-logo.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/mh-logo.jpg
-  grade: #(optional)
+  #grade: #(optional)
     # scale: GPA
     # achieved: 5
     # outOf: 5
-   extracurricularActivities: #(optional)
+  extracurricularActivities: #(optional)
    - Lead drummer in the decorated Jazz band, winning competions and eisteddfords.
   customSections: #(optional)
     - name: Achievements
