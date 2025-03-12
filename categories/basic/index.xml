@@ -4,7 +4,18 @@
 &lt;p>So, why start a blog? For me, the answer is twofold:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>Beyond the CV – A CV is great for listing jobs, skills, and projects, but it doesn’t tell the full story. This blog is my way of showcasing what I actually think—about technology, innovation, and how we can keep improving as architects, data leaders, and AI enthusiasts.&lt;/p></description></item><item><title>Rich Content</title><link>https://www.gareth-shaw.com/posts/category/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://www.gareth-shaw.com/posts/category/sub-category/rich-content/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;p>Beyond the CV – A CV is great for listing jobs, skills, and projects, but it doesn’t tell the full story. This blog is my way of showcasing what I actually think—about technology, innovation, and how we can keep improving as architects, data leaders, and AI enthusiasts.&lt;/p></description></item><item><title>Enterprise Architecture</title><link>https://www.gareth-shaw.com/posts/architecture/enterprise-arch/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://www.gareth-shaw.com/posts/architecture/enterprise-arch/</guid><description>&lt;p>This sample post tests the followings:&lt;/p></description></item><item><title>Reviews</title><link>https://www.gareth-shaw.com/posts/data/platforms/reviews/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://www.gareth-shaw.com/posts/data/platforms/reviews/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;ul>
+&lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
+&lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
+&lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
+&lt;/ul>
+&lt;h3 id="image-sample">Image Sample&lt;/h3>
+&lt;img src="https://www.gareth-shaw.com/posts/category/sub-category/rich-content/images/forest.jpg"
+alt="Forest"
+class="center"
+>
+&lt;div style="margin-top: rem;">&lt;/div></description></item><item><title>Rich Content</title><link>https://www.gareth-shaw.com/posts/examples/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://www.gareth-shaw.com/posts/examples/sub-category/rich-content/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
