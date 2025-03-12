@@ -7,6 +7,7 @@ menu:
     name: Why Start a Blog? 
     identifier: introduction
     weight: 10
+hero: images/start.png
 tags: ["Basic"]
 categories: ["Basic"]
 ---
