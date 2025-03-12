@@ -4,6 +4,6 @@ menu:
   sidebar:
     name: Sub-Category
     identifier: sub-category
-    parent: category
+    parent: examples
     weight: 10
 ---
