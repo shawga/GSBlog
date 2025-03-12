@@ -1,8 +1,8 @@
 ---
-# title: Top Category Sample
-# menu:
-#   sidebar:
-#     name: Category
-#     identifier: examples
-#     weight: 20
+ title: Examples
+ menu:
+   sidebar:
+     name: Examples
+     identifier: examples
+     weight: 20
 ---

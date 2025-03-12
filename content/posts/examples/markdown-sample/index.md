@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Markdown Sample
     identifier: markdown
+    parent: examples
     weight: 30
 author:
   name: Jessica Jonas
