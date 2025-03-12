@@ -1,18 +1,30 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Why Start a Blog? Because Tech, Data, and AI Deserve a Good Story!"
+date: 2025-03-12T17:36:00+02:00
+description: Introduction to share my intetnions and scope of my blog posts.
 menu:
   sidebar:
-    name: Introduction
+    name: Why Start a Blog? 
     identifier: introduction
     weight: 10
-tags: ["Basic", "Multi-lingual"]
+tags: ["Basic"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Welcome to my corner of the internet! 
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+If you've stumbled upon this blog, chances are you're either as passionate about data, AI, and architecture as I am — or you clicked the wrong link and are now too polite to leave. 
+
+Either way, I’m glad you’re here!
+
+So, why start a blog? For me, the answer is twofold:
+
+- Beyond the CV – A CV is great for listing jobs, skills, and projects, but it doesn’t tell the full story. This blog is my way of showcasing what I actually think—about technology, innovation, and how we can keep improving as architects, data leaders, and AI enthusiasts.
+
+- Sharing the Journey – Along the way, I’ve picked up insights, made interesting discoveries, and occasionally broken things (for science, of course). If any of that can help others—or at least spark some good conversations—then it’s worth putting out there.
+
+I don’t have all the answers, but I do have a curiosity that keeps me learning. Whether it’s exploring the latest in cloud platform services, engaging in some contrioversal architecture agruments, wrangling data into something useful, or seeing where AI is taking us next, I’ll be sharing my thoughts here.
+
+Expect a mix of deep dives, thought experiments, and the occasional tech rant. Let’s explore, learn, and challenge each other—because that’s how we grow.
+
+Welcome aboard!.  
