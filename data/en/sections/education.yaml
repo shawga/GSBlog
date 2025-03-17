@@ -16,9 +16,9 @@ degrees:
   institution:
     name: University of KwaZulu-Natal
     url: "https://ukzn.ac.za/"
-    logo: /images/sections/education/ukzn-logo.png
+    logo: /images/sections/education/ukzn-logo-colour-01.png
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/education/ukzn-logo.jpg
+    darkLogo: /images/sections/education/ukzn-logo-monochrome-01.png
   #grade: #(optional)
     # scale: CGPA
     # achieved: 3.6
@@ -66,7 +66,7 @@ degrees:
     url: "https://www.michaelhouse.org/"
     logo: /images/sections/education/mh-logo.png
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/education/mh-logo.jpg
+    darkLogo: /images/sections/education/mh-logo-bw.png
   #grade: #(optional)
     # scale: GPA
     # achieved: 5
