@@ -1,6 +1,6 @@
 ---
 title: "Enterprise Architecture"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-03-17T08:00:00+02:00
 description: Sample post with multiple images, embedded video etc.
 menu:
   sidebar:
@@ -17,4 +17,4 @@ categories:
 - Basic
 ---
 
-This sample post tests the followings:
+<!-- This sample post tests the followings: -->

@@ -1,6 +1,6 @@
 ---
 title: "AI & ML"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-03-17T08:00:00+02:00
 description: Sample post with AI & ML stuff
 menu:
   sidebar:
@@ -17,7 +17,7 @@ categories:
 - AI
 ---
 
-This sample post tests the followings
+<!-- This sample post tests the followings -->
 
 
 

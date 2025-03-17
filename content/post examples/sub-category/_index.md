@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Sub-Category
 menu:
   sidebar:
@@ -7,3 +7,4 @@ menu:
     parent: examples
     weight: 10
 ---
+ -->
