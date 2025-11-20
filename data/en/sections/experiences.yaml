@@ -11,10 +11,10 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Freelance / Contract
-    url: "https://garethshaw.blog"
+    name: Snap Analytics
+    url: "https://www.snapanalytics.co.uk"
     location: Remote
-    logo: /images/sections/experiences/snapanalytics.png
+    logo: /images/sections/experiences/snap-analytics-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Assist ambitious organisations to unlock the full value of their data by designing and building the ultimate data stack.
