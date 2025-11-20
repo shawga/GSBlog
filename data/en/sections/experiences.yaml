@@ -11,6 +11,51 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Freelance / Contract
+    url: "https://garethshaw.blog"
+    location: Remote
+    logo: /images/sections/experiences/snapanalytics.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: Assist ambitious organisations to unlock the full value of their data by designing and building the ultimate data stack.
+
+  positions:
+  - designation: Snr Consultant + Delivery Lead
+    start: June 2025
+    end: Present
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Led the design and delivery of enterprise-scale data solutions, ensuring alignment with business objectives.
+    - Delivery Lead on Data Migration Project for Phillip Morris International (PMI)
+    - Building and managing client relationships at a senior level, acting as a trusted advisor to stakeholders.
+    - Owning and driving solution architecture, contributing to proposal development and project planning.
+    - Managing and mentoring teams, ensuring high-quality project execution and professional growth of team members.
+    - Assist on solutions centred around Matillion, AWS, Snowflake and DBT.
+
+- company:
+    name: Mydevconnect
+    url: "https://www.mydevconnect.com"
+    location: Remote
+    logo: /images/sections/experiences/mydevconnect.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company4.jpg
+    overview: Worldwide development and staffing company specializing in providing top-tier IT professionals for contract and permanent roles across various industries.
+
+  positions:
+  - designation: Architect Consultant (Contract)
+    start: March 2025
+    end: June 2025
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Advisory role and architect for Blockchain payment product architecture in AWS.
+    - Review current architecture and advise on future state and creation of technical documentation.
+    - Assist Tech leads with continuous delivery, solution design, design patterns and delivery plans.
+
+- company:
     name: Digioutsource
     url: "https://supergroup.com/companies/digi-outsource/"  
     location: Cape Town
